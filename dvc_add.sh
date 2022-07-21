@@ -1,10 +1,11 @@
-#!/usr/local/bin/bash
 #!/usr/bin/bash
+#!/usr/local/bin/bash
 
 declare -A model_names=(
-  ['catboost']="baseline"
+  ['catboost']="baseline ext_text_process labse_emb"
 )
 
+dvc add data
 for model_name in ${!model_names[@]}; do
   for experiment_name in ${model_names[$model_name]}; do
     git add submissions/$model_name/$experiment_name.csv

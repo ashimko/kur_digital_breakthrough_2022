@@ -1,0 +1,5 @@
+outs:
+- md5: 62a26844124ac59d6297347e5cee5ea0.dir
+  size: 28654802
+  nfiles: 5
+  path: labse_emb
