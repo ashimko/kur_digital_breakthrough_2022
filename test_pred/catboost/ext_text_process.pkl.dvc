@@ -1,0 +1,4 @@
+outs:
+- md5: f4c6e2f4fad9878d1841217c94617a70
+  size: 144763
+  path: ext_text_process.pkl
