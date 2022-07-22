@@ -1,4 +1,4 @@
 outs:
-- md5: 54919faf84f3206cfb3a5cb299127354
-  size: 288765
+- md5: 0453e851245e9dcfd6cc0b2256aaec3b
+  size: 288799
   path: labse_emb.pkl
