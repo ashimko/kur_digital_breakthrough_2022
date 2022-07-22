@@ -3,6 +3,7 @@
 
 declare -A model_names=(
   ['catboost']="baseline ext_text_process labse_emb"
+  ['keras']="labse_emb"
 )
 
 dvc add data
