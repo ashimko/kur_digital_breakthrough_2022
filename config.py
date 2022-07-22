@@ -8,6 +8,7 @@ ORIG_DATA_PATH = os.path.join(DATA_PATH, 'original')
 ORIG_TRAIN_PATH = os.path.join(ORIG_DATA_PATH, 'train_dataset_train.csv')
 ORIG_TEST_PATH = os.path.join(ORIG_DATA_PATH, 'test_dataset_test.csv')
 SAMPLE_SUBMIT_PATH = os.path.join(ORIG_DATA_PATH, 'sample_solution.csv')
+PREPROCESSED_DATA_PATH = os.path.join(DATA_PATH, 'preprocessed')
 
 SUBMISSION_PATH = os.path.join(HOME_PATH, 'submissions')
 OOF_PRED_PATH = os.path.join(HOME_PATH, 'oof_pred')
