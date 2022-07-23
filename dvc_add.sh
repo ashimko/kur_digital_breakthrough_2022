@@ -2,8 +2,8 @@
 #!/usr/local/bin/bash
 
 declare -A model_names=(
-  ['catboost']="baseline ext_text_process labse_emb"
-  ['keras']="labse_emb"
+  ['catboost']="baseline ext_text_process labse_emb deeppavlov rubert_tiny"
+  ['keras']="labse_emb xlm"
 )
 git add notebooks
 git add submissions

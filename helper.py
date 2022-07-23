@@ -2,7 +2,10 @@ import os
 import pickle
 import random
 import numpy as np
-import tensorflow as tf
+try:
+    import tensorflow as tf
+except:
+    pass
 from typing import Any
 
 def check_path(path: str) -> None:

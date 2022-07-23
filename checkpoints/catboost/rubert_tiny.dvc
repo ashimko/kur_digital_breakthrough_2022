@@ -1,0 +1,5 @@
+outs:
+- md5: 6eab630ad5d7184f0a49bb49e71dfefc.dir
+  size: 2415560
+  nfiles: 5
+  path: rubert_tiny

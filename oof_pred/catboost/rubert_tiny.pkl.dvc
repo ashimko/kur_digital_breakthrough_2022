@@ -1,0 +1,4 @@
+outs:
+- md5: 310805b59bac2a5c99e19cba40d441a6
+  size: 288655
+  path: rubert_tiny.pkl
