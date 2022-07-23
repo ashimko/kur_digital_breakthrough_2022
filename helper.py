@@ -27,4 +27,7 @@ def seed_everything(seed=0):
     def seed_tf(seed=seed):
         tf.random.set_seed(seed)
     seed_basic(seed)
-    seed_tf(seed)
+    try:
+        seed_tf(seed)
+    except:
+        pass

@@ -1,4 +1,4 @@
 outs:
-- md5: 2dc92bedbecb6de415589bf836c5af7d
+- md5: 59e007a5dcbdf64a4fd8e45f99f24a5d
   size: 288655
   path: deeppavlov.pkl
