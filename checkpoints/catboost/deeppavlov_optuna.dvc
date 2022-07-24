@@ -1,0 +1,5 @@
+outs:
+- md5: a35a4a7856e89eec3ec3a60ce71cd036.dir
+  size: 7062658
+  nfiles: 5
+  path: deeppavlov_optuna

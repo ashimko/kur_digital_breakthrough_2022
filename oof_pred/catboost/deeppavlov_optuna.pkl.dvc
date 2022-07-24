@@ -1,0 +1,4 @@
+outs:
+- md5: 9cc0a03f908b4b434bd6116d07998cec
+  size: 288799
+  path: deeppavlov_optuna.pkl

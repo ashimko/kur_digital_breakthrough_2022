@@ -2,7 +2,7 @@
 #!/usr/local/bin/bash
 
 declare -A model_names=(
-  ['catboost']="baseline ext_text_process labse_emb deeppavlov rubert_tiny"
+  ['catboost']="baseline ext_text_process labse_emb deeppavlov rubert_tiny deeppavlov_optuna"
   ['keras']="labse_emb xlm"
   ['blending']="baseline"
 )
