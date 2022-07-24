@@ -16,7 +16,7 @@ TEST_PRED_PATH = os.path.join(HOME_PATH, 'test_pred')
 MODELS_PATH = os.path.join(HOME_PATH, 'checkpoints')
 
 RANDOM_STATE= 1818
-N_SPLITS = 5
+N_SPLITS = 3
 
 
 TARGET = 'Категория'

@@ -4,6 +4,7 @@
 declare -A model_names=(
   ['catboost']="baseline ext_text_process labse_emb deeppavlov rubert_tiny"
   ['keras']="labse_emb xlm"
+  ['blending']="baseline"
 )
 git add notebooks
 git add submissions
