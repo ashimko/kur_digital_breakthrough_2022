@@ -1,5 +1,5 @@
 outs:
-- md5: 0bdb13f52f537af1a7a3060a7667e4c9.dir
-  size: 4458567328
-  nfiles: 25
+- md5: e02e4f78a11ab6e762b36d7c22019ec6.dir
+  size: 8903209668
+  nfiles: 50
   path: labse_emb
